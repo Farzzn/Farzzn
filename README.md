@@ -13,12 +13,11 @@
 
 💬 **My Projects**
   
-• Vehicle Search cum Comparison Web App (Link) Web Application
-  – Tools & technologies used: ReactJS, Rest API, Google Sheets
-  – A Web App designed to compare and Search di erent EV models with selected features like Price, driving Range
-     etc.
+• Vehicle Search & Comparison Web App <br>
+  – Tools & technologies used: ReactJS, Rest API, Google Sheets <br>
+  – A Web App designed to compare and Search di erent EV models with selected features like Price, driving Range etc <br>
   – Implemented Google Sheets App Script to generate a dynamic REST API, presenting data in JSON format for
-seamless integration with the React web application.
+seamless integration with the React web application.<br>
 
 ## 💼 Technical Skills
 
