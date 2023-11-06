@@ -14,8 +14,10 @@
 💬 **My Projects**
 
 * [Vehicle Search & Comparison Web App](https://github.com/Farzzn/Electric_Vehicle) - A Web Application made using <strong>ReactJS</strong> to compare and Search different EV models with selected features like Price, driving Range etc. Vehicle data are stored in google sheets and fetched using REST apis.
-  
+  <br>
 
+* [Weather App Chrome Extension](https://github.com/Farzzn/WeatherApp) - A Chrome Browser Extension made using <strong>JavaScript</strong> to provide real time Weather data of current Geolocation.
+  
 ## 💼 Technical Skills
 
 <p align="center">
