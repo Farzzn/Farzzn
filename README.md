@@ -24,7 +24,7 @@ seamless integration with the React web application.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py" />
   </a>
 </p>
 
