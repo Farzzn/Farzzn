@@ -3,7 +3,7 @@
 - 🎓 I am a final year Bachelor of Technology Computer Science student at National Institute of Technology, Patna.<br>
 - 🌱 I am currently learning React and related technologies.<br>
 - 🔭 I am currently working on different personal projects and learning new stuff.<br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!<br.
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhan121212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
