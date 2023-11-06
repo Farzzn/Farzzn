@@ -24,19 +24,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,py" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,sqlite,jquery" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,jquery" />
   </a>
 </p>
 
