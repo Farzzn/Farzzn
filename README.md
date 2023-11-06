@@ -12,6 +12,8 @@
 </p>
 
 💬 **My Projects**
+
+* [Vehicle Search & Comparison Web App](https://github.com/Farzzn/Electric_Vehicle) - A Web Application made using <strong>ReactJS</strong> to compare and Search different EV models with selected features like Price, driving Range etc. Vehicle data are stored in google sheets and fetched using REST apis.
   
 • Vehicle Search & Comparison Web App <br>
   – Tools & technologies used: ReactJS, Rest API, Google Sheets <br>
