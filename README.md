@@ -17,6 +17,8 @@
   <br>
 
 * [Weather App Chrome Extension](https://github.com/Farzzn/WeatherApp) - A Chrome Browser Extension made using <strong>JavaScript</strong> to provide real time Weather data of current Geolocation.
+
+* * [Boat Booking Management](https://github.com/Farzzn/Boat-Booking-Management) - A full stack web application developed using <strong>PHP</strong> to track and record Boat booking informations.
   
 ## 💼 Technical Skills
 
