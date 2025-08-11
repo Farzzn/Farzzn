@@ -2,10 +2,10 @@
 
 **About Me**
 <br>
-- 🎓 I am a final year Bachelor of Technology Computer Science student at National Institute of Technology, Patna.<br>
-- 🌱 I am currently learning React and related technologies.<br>
-- 🔭 I am currently working on different personal projects and learning new stuff.<br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 🎓 I am a BTech CSE Graduate From National Institute of Technology, Patna.<br>
+- 🌱 I am currently working as developer at Tutorialspoint.<br>
+- 🔭 Checkout my personal projects and new stuffs here in GitHub. <br>
+- 💬 Contact me to build exciting stuffs for you.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/farhan121212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
@@ -13,12 +13,10 @@
 
 💬 **My Projects**
 
-* [Vehicle Search & Comparison Web App](https://github.com/Farzzn/Electric_Vehicle) - A Web Application made using <strong>ReactJS</strong> to compare and Search different EV models with selected features like Price, driving Range etc. Vehicle data are stored in google sheets and fetched using REST apis.
+* [WhatsAppSaver](https://github.com/Farzzn/WhatsAppSaver) - An android app to save WhatsApp media, before getting deleted.
   <br>
-
-* [Weather App Chrome Extension](https://github.com/Farzzn/WeatherApp) - A Chrome Browser Extension made using <strong>JavaScript</strong> to provide real time Weather data of current Geolocation.
-
-* [Boat Booking Management](https://github.com/Farzzn/Boat-Booking-Management) - A full stack web application developed using <strong>PHP</strong> to track and record Boat booking informations.
+* [EVSearch](https://github.com/Farzzn/evdetials) - A full stack web application made for evxplorer.com <br>
+* [InfoServe](https://github.com/Farzzn/infoserve) - A static web app made for infoservecsc.live
   
 ## 💼 Technical Skills
 
